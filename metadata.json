@@ -1,0 +1,5 @@
+{
+  "name": "CulinaryAI: Smart Fridge Assistant",
+  "description": "Snap a photo of your fridge to get personalized recipe suggestions, step-by-step cooking guides with voice assistance, and a smart shopping list.",
+  "requestFramePermissions": ["camera"]
+}
